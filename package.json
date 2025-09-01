@@ -14,9 +14,9 @@
     "access": "public"
   },
   "bin": {
-    "qsdoctor": "bin/index.js",
-    "qsd": "bin/index.js",
-    "quickstart-verify": "bin/index.js"
+    "qsdoctor": "src/index.js",
+    "qsd": "src/index.js",
+    "quickstart-verify": "src/index.js"
   },
   "repository": {
     "type": "git",
