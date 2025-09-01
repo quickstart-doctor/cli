@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": "[\"cli\",\"quickstart\",\"readme\",\"onboarding\",\"doctor\"]",
   "author": "",
   "license": "ISC",
   "description": "Quickstart Doctor CLI (placeholder)",
@@ -17,5 +17,16 @@
     "qsdoctor": "bin/index.js",
     "qsd": "bin/index.js",
     "quickstart-verify": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quickstart-doctor/cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quickstart-doctor/cli/issues"
+  },
+  "homepage": "https://github.com/quickstart-doctor/cli#readme",
+  "engines": {
+    "node": ">=18"
   }
 }
