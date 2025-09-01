@@ -28,5 +28,6 @@
   "homepage": "https://github.com/quickstart-doctor/cli#readme",
   "engines": {
     "node": ">=18"
-  }
+  },
+  "files": "[\"src\",\"bin\",\"README.md\",\"LICENSE\"]"
 }
